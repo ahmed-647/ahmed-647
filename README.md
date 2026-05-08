@@ -1,39 +1,70 @@
-# Hi there, I'm Muhammad Ahmed 👋
-
-### 🚀 DevOps Engineer
-I am a **DevOps Engineer** passionate about automating infrastructure, streamlining CI/CD pipelines, and building scalable cloud architectures. I have hands-on experience integrating **AIOps** techniques to create autonomous, self-healing systems.
-
----
-
-### 🛠️ My Tech Stack
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Cloud & Orchestration** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![K3s](https://img.shields.io/badge/K3s-FFC61C?style=flat-square&logo=kubernetes&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| **Infrastructure as Code** | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) |
-| **Automation & Monitoring** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) |
-| **Backend & Serverless** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white) |
+<div align="center">
+  <h1>Hi, I'm Muhammad Ahmed 👋</h1>
+  <p><strong>DevOps Engineer | Infrastructure Automation & Autonomous Cloud Systems</strong></p>
+  
+  <p>
+    <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:muhammaad.ahmaad123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  </p>
+</div>
 
 ---
 
-### 🌟 Featured Projects
-
-#### 🏗️ [Sovereign-Ops: Autonomous Cloud Engine](YOUR_REPO_LINK_HERE)
-* **DevOps Focus:** Built an automated scaling system on AWS.
-* **Special Edge:** Integrated a **Python-based AI decision engine** (AIOps) to analyze metrics and trigger self-healing actions.
-* Reduced manual intervention by automating complex operational responses.
-
-#### 📦 [Three-Tier Web Application on K3s](YOUR_REPO_LINK_HERE)
-* Orchestrated a React, Node.js, and MongoDB stack using a lightweight **K3s cluster**.
-* Managed stateful data with Persistent Volume Claims and handled traffic via NodePort.
+### ⚡ Professional Summary
+Result-oriented **DevOps Engineer** specialized in architecting scalable, resilient cloud infrastructures. I bridge the gap between development and operations by implementing **Infrastructure as Code (IaC)** and **Autonomous Systems**. My core expertise lies in transforming manual workflows into intelligent, self-healing environments using **AIOps** integration.
 
 ---
 
-### 📈 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ahmed-647&show_icons=true&theme=tokyonight" alt="Ahmed's Stats" />
+### 🛠️ Core Competencies
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>☁️ Cloud & Orchestration</h4>
+      <ul>
+        <li><strong>AWS:</strong> EC2, S3, Lambda, DynamoDB, VPC</li>
+        <li><strong>Kubernetes:</strong> K3s Cluster Administration, PVC, Networking</li>
+        <li><strong>Containers:</strong> Docker Architecture & Optimization</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🤖 Automation & Monitoring</h4>
+      <ul>
+        <li><strong>IaC:</strong> Terraform (Modular Design), Ansible</li>
+        <li><strong>AIOps:</strong> Python-based Autonomous Decision Engines</li>
+        <li><strong>Monitoring:</strong> Prometheus Metrics & Metric Analysis</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 Flagship Implementation: Sovereign-Ops
+**Autonomous Cloud Operations Engine**
+> *Architected a closed-loop automation system that eliminates manual scaling.*
+
+* **Engineering Impact:** Built a Python decision engine that monitors Prometheus metrics to execute real-time scaling on AWS.
+* **AIOps Integration:** Implemented threshold-based intelligent logic to transform reactive monitoring into proactive self-healing.
+* **Tech Stack:** Terraform, Ansible, K3s, AWS, Python.
+
+---
+
+### 📦 Key Projects
+
+* **Multi-Tier Enterprise Deployment:** Deployed a containerized 3-tier microservices architecture (React, Node.js, MongoDB) on K3s, focusing on manual resource management and pod-to-service communication.
+* **Infrastructure as Code (IaC):** Automated professional contact form infrastructure using Terraform, integrating S3 static hosting with Lambda and DynamoDB.
+
+---
+
+### 📊 Engineering Metrics & Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-647&show_icons=true&theme=transparent&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-647&layout=compact&theme=transparent&title_color=38bdf8&text_color=ffffff" width="45%" />
 </p>
 
-### 📫 Get In Touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+---
+
+<div align="center">
+  <sub>Building the future of autonomous infrastructure, one commit at a time.</sub>
+</div>
