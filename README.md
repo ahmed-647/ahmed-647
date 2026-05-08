@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm <span style="color: #2b6cb0;">Muhammad Ahmed</span> 🧤
+#  Hi there! I'm <span style="color: #2b6cb0;">Muhammad Ahmed</span> ✋🖐️👋🤚
 
 I am a **High-Impact DevOps Engineer** specializing in architecting resilient, automated cloud ecosystems. My mission is to eliminate manual friction by engineering robust **Kubernetes** environments and **Terraform**-led infrastructure. I thrive on bridging the gap between complex development needs and scalable operational excellence, ensuring that production systems are always secure, efficient, and future-ready.
 
@@ -63,7 +63,7 @@ I am a **High-Impact DevOps Engineer** specializing in architecting resilient, a
 
 ---
 
-### 🤝 Connect With Me
+### 👥 Connect With Me
 
 <p align="left">
 <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID" target="blank"><img src="https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
