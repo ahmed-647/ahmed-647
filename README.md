@@ -1,7 +1,6 @@
-# 🚀 DevOps Engineer | Infrastructure & Automation Specialist
+# 👋 Hi there! I'm Muhammad Ahmed
 
-## 👋 Hi there! I'm Muhammad Ahmed
-I am a **DevOps Engineer** dedicated to building scalable, reliable, and automated cloud infrastructure. I specialize in Infrastructure as Code (IaC), container orchestration, and serverless architectures to streamline software delivery cycles.
+I am a **DevOps Engineer** who specializes in transforming complex manual workflows into seamless, automated pipelines. My focus is on building high-availability systems using **Kubernetes** and **Terraform**, ensuring that infrastructure is not just scalable, but also secure and cost-efficient. I thrive on solving "it works on my machine" problems by implementing robust containerization and serverless solutions.
 
 ---
 
@@ -22,24 +21,24 @@ I am a **DevOps Engineer** dedicated to building scalable, reliable, and automat
 
 #### 🤖 [Sovereign-Ops (Autonomous Engine)](https://github.com/Sam-One67)
 *An autonomous cloud operations engine built for intelligent scaling.*
-- **Core:** Built using **Python** and **Prometheus** for automated scaling logic.
-- **Impact:** Implemented monitoring-driven actions to ensure system health and performance optimization.
+- **Core:** Built using **Python** and **Prometheus** for automated scaling logic.[cite: 1]
+- **Impact:** Implemented monitoring-driven actions to ensure system health and performance optimization.[cite: 1]
 
 #### 🏗️ [3-Tier Microservices Deployment](https://github.com/Sam-One67)
-*Scalable multi-tier application architecture.*
-- **Infrastructure:** Deployed a microservices-based application using **K3s** on AWS.
-- **Stack:** Integrated a **ReactJS** frontend with a **Node.js/MongoDB** backend.
-- **Focus:** Optimized for high availability and efficient cluster management.
+*Scalable multi-tier application architecture.*[cite: 1]
+- **Infrastructure:** Deployed a microservices-based application using **K3s** on AWS.[cite: 1]
+- **Stack:** Integrated a **ReactJS** frontend with a **Node.js/MongoDB** backend.[cite: 1]
+- **Focus:** Optimized for high availability and efficient cluster management.[cite: 1]
 
 #### ⚡ [Serverless Contact Backend](https://github.com/Sam-One67)
-*Event-driven serverless architecture for contact automation.*
-- **Tech:** Leveraged **AWS Lambda**, **Python**, and **DynamoDB**.
-- **Outcome:** Automated data handling and storage processes without managing traditional server infrastructure.
+*Event-driven serverless architecture for contact automation.*[cite: 1]
+- **Tech:** Leveraged **AWS Lambda**, **Python**, and **DynamoDB**.[cite: 1]
+- **Outcome:** Automated data handling and storage processes without managing traditional server infrastructure.[cite: 1]
 
 #### 📦 [Cloud Infrastructure as Code](https://github.com/Sam-One67)
-*Reproducible cloud environment provisioning.*
-- **AWS Setup:** Automated **S3** bucket configuration and **CloudFront** distribution using **Terraform**.
-- **Configuration:** Used **Ansible** for automated server setup and system hardening.
+*Reproducible cloud environment provisioning.*[cite: 1]
+- **AWS Setup:** Automated **S3** bucket configuration and **CloudFront** distribution using **Terraform**.[cite: 1]
+- **Configuration:** Used **Ansible** for automated server setup and system hardening.[cite: 1]
 
 ---
 
@@ -50,9 +49,12 @@ I am a **DevOps Engineer** dedicated to building scalable, reliable, and automat
 ---
 
 ### 📫 Connect with Me
-- **GitHub:** [Sam-One67](https://github.com/Sam-One67)
-- **LinkedIn:** [Insert Your LinkedIn Link]
-- **Email:** [Insert Your Email Address]
+
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_ID" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://github.com/Sam-One67" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
+<a href="mailto:YOUR_EMAIL@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/envelope.svg" alt="Email" height="30" width="40" /></a>
+</p>
 
 ---
 *Built with ❤️ and Automation.*
