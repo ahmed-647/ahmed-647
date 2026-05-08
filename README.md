@@ -1,70 +1,52 @@
-<div align="center">
-  <h1>Hi, I'm Muhammad Ahmed 👋</h1>
-  <p><strong>DevOps Engineer | Infrastructure Automation & Autonomous Cloud Systems</strong></p>
-  
-  <p>
-    <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:muhammaad.ahmaad123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  </p>
-</div>
+# Hi there, I'm Muhammad Ahmed 👋
+
+<p align="left">
+  <img src="https://img.shields.io/badge/DevOps%20Engineer-Expert-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/AIOps%20Practitioner-Advanced-orange?style=for-the-badge">
+</p>
+
+### 🛠️ Infrastructure & Automation Architect
+I am a **DevOps Engineer** specializing in architecting resilient, self-healing cloud environments. My expertise lies in transforming traditional manual operations into **Autonomous Systems** by integrating **AIOps** workflows with industry-standard DevOps primitives.
 
 ---
 
-### ⚡ Professional Summary
-Result-oriented **DevOps Engineer** specialized in architecting scalable, resilient cloud infrastructures. I bridge the gap between development and operations by implementing **Infrastructure as Code (IaC)** and **Autonomous Systems**. My core expertise lies in transforming manual workflows into intelligent, self-healing environments using **AIOps** integration.
+### 🚀 Technical Arsenal (Tech Stack)
+
+| Domain | Technologies & Tools |
+| :--- | :--- |
+| **Cloud & Orchestration** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![K3s](https://img.shields.io/badge/K3s-FFC61C?style=for-the-badge&logo=kubernetes&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+| **Infrastructure as Code** | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white) |
+| **Autonomous Ops (AIOps)** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) |
+| **Serverless & Data** | ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white) ![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white) |
 
 ---
 
-### 🛠️ Core Competencies
+### 🌟 Featured Engineering Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>☁️ Cloud & Orchestration</h4>
-      <ul>
-        <li><strong>AWS:</strong> EC2, S3, Lambda, DynamoDB, VPC</li>
-        <li><strong>Kubernetes:</strong> K3s Cluster Administration, PVC, Networking</li>
-        <li><strong>Containers:</strong> Docker Architecture & Optimization</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🤖 Automation & Monitoring</h4>
-      <ul>
-        <li><strong>IaC:</strong> Terraform (Modular Design), Ansible</li>
-        <li><strong>AIOps:</strong> Python-based Autonomous Decision Engines</li>
-        <li><strong>Monitoring:</strong> Prometheus Metrics & Metric Analysis</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+#### 🤖 [Sovereign-Ops: Autonomous Cloud Engine](https://github.com/ahmed-647/industry-cloud-cluster)
+* **Core Achievement:** Engineered a closed-loop automation system that enables **Self-Healing Infrastructure** on AWS.
+* **AIOps Logic:** Developed a Python-based decision engine that analyzes Prometheus metrics to automate scaling and incident response.
+* **Stack:** Terraform, Ansible, K3s, Python, AWS.
+
+#### 🏗️ [Enterprise 3-Tier Microservices Deployment](https://github.com/ahmed-647/Sovereign-Ops)
+* Containerized and orchestrated a React/Node.js/MongoDB stack on a **K3s cluster**.
+* Focused on deep-level Kubernetes primitives: Manual resource limits, PVC management, and custom Service networking.
 
 ---
 
-### 🚀 Flagship Implementation: Sovereign-Ops
-**Autonomous Cloud Operations Engine**
-> *Architected a closed-loop automation system that eliminates manual scaling.*
-
-* **Engineering Impact:** Built a Python decision engine that monitors Prometheus metrics to execute real-time scaling on AWS.
-* **AIOps Integration:** Implemented threshold-based intelligent logic to transform reactive monitoring into proactive self-healing.
-* **Tech Stack:** Terraform, Ansible, K3s, AWS, Python.
-
----
-
-### 📦 Key Projects
-
-* **Multi-Tier Enterprise Deployment:** Deployed a containerized 3-tier microservices architecture (React, Node.js, MongoDB) on K3s, focusing on manual resource management and pod-to-service communication.
-* **Infrastructure as Code (IaC):** Automated professional contact form infrastructure using Terraform, integrating S3 static hosting with Lambda and DynamoDB.
-
----
-
-### 📊 Engineering Metrics & Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-647&show_icons=true&theme=transparent&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-647&layout=compact&theme=transparent&title_color=38bdf8&text_color=ffffff" width="45%" />
+### 📈 Metrics & Insights
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=ahmed-647&show_icons=true&theme=tokyonight&count_private=true" alt="Ahmed's Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-647&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
 ---
 
-<div align="center">
-  <sub>Building the future of autonomous infrastructure, one commit at a time.</sub>
-</div>
+### 📫 Let's Engineer Something Great
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+
+---
+<p align="center">
+  <i>"Efficiency is the byproduct of well-architected automation."</i>
+</p>
