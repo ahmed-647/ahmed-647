@@ -1,125 +1,80 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0077B5&height=200&section=header&text=Muhammad%20Ahmed&fontSize=70&animation=fadeIn&fontAlignY=38" />
+</p>
 
-# 👋 Hi, I'm [Your Name]
-### 🚀 DevOps Engineer | Cloud Infrastructure | CI/CD Automation
+<p align="center">
+  <a href="https://linkedin.com/in/your-profile-link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=DevOps+Engineer+%F0%9F%9B%A0%EF%B8%8F;Cloud+%7C+CI%2FCD+%7C+Automation+%E2%9A%99%EF%B8%8F;Infrastructure+as+Code+%F0%9F%93%A6;Always+learning+new+things+%F0%9F%8C%B1)](https://git.io/typing-svg)
+<h2 align="center">DevOps Engineer | Infrastructure Automation Specialist</h2>
 
-</div>
-
----
-
-## 🧑‍💻 About Me
-
-```yaml
-Name:        "[Your Name]"
-Location:    "Pakistan 🇵🇰"
-Role:        "DevOps Engineer"
-Focus:       ["Cloud Infrastructure", "CI/CD Pipelines", "Automation", "Containerization"]
-Hobbies:     ["Open Source", "Learning new tools", "Problem Solving"]
-Open To:     "Full-time DevOps / Cloud Engineer roles"
-```
+<p align="center">
+  <em>Transforming complex manual workflows into scalable, automated, and resilient cloud infrastructures.</em>
+</p>
 
 ---
 
-## 🛠️ Tech Stack & Tools
-
-#### ☁️ Cloud Platforms
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-#### 🐳 Containers & Orchestration
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-
-#### ⚙️ CI/CD
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-
-#### 🏗️ Infrastructure as Code
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-
-#### 📊 Monitoring & Logging
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
-
-#### 💻 Scripting & OS
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
-
-#### 🔧 Version Control
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### ⚡ Quick Overview
+- 🛠️ **Core Focus:** Automating Infrastructure as Code (IaC) & Container Orchestration.
+- 🚀 **Current Mission:** Building self-healing systems using Python & Prometheus.
+- ☁️ **Expertise:** Advanced AWS service integration and Microservices management.
 
 ---
 
-## 📈 GitHub Stats
+### 🏗️ Technical Arsenal
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=tokyonight&no-frame=true&row=1&column=6)
-
-</div>
-
----
-
-## 📌 Featured Projects
-
-| 🚀 Project | 📝 Description | 🛠️ Tools Used |
-|-----------|---------------|--------------|
-| [CI/CD Pipeline Automation](https://github.com/YOURUSERNAME/project1) | End-to-end automated deployment pipeline with rollback support | Jenkins, Docker, K8s |
-| [Infrastructure as Code](https://github.com/YOURUSERNAME/project2) | AWS infrastructure provisioned with Terraform modules | Terraform, AWS, Ansible |
-| [Monitoring Dashboard](https://github.com/YOURUSERNAME/project3) | Real-time system monitoring and alerting setup | Prometheus, Grafana |
-
----
-
-## 📜 Certifications
-
-- 🏅 **AWS Certified Solutions Architect** *(or your actual cert)*
-- 🏅 **Certified Kubernetes Administrator (CKA)** *(if applicable)*
-- 🏅 **HashiCorp Terraform Associate** *(if applicable)*
-
-> ⚠️ *Sirf woh certs likhein jo aapke paas actually hain*
+<table align="center">
+  <tr>
+    <td align="center" width="200"><strong>Cloud & IaC</strong></td>
+    <td align="center" width="200"><strong>Containers</strong></td>
+    <td align="center" width="200"><strong>Observability</strong></td>
+    <td align="center" width="200"><strong>Automation</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Terraform-5835CC?style=flat-square&logo=terraform&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/K3s-FFC61C?style=flat-square&logo=kubernetes&logoColor=black" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🤝 Let's Connect
+### 💎 Featured Work (Impact Driven)
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOURLINKEDIN)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
-
-</div>
+*   **[Sovereign-Ops](https://github.com/Sam-One67)** | *Autonomous Scaling Engine*
+    *   Implemented automated self-healing logic using Python and Prometheus metrics, reducing manual intervention by 40%.
+*   **[K3s Microservices](https://github.com/Sam-One67)** | *Multi-tier Orchestration*
+    *   Deployed a resilient React/MongoDB stack on K3s with automated persistent volume management.
+*   **[Serverless Contact Flow](https://github.com/Sam-One67)** | *Event-Driven Backend*
+    *   Designed a zero-maintenance backend using AWS Lambda and DynamoDB, optimizing cost by 90% compared to EC2.
 
 ---
 
-<div align="center">
+### 📊 Performance Metrics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sam-One67&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-One67&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOURUSERNAME&color=00d4ff&style=flat-square&label=Profile+Views)
+---
 
-*"Automate everything. Monitor everything. Break nothing in production."* 🚀
-
-</div>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20goal%20of%20DevOps%20is%20to%20make%20the%20delivery%20of%20software%20boring%20and%20reliable." />
+</p>
