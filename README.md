@@ -1,47 +1,93 @@
-# Hi there, I'm Muhammad Ahmed 👋
-### Cloud & DevOps Engineer | Infrastructure Automation Specialist
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0077B5&height=200&section=header&text=Muhammad%20Ahmed&fontSize=70&animation=fadeIn&fontAlignY=38" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/your-profile-link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<h2 align="center">DevOps Engineer | Infrastructure Automation Specialist</h2>
+
+<p align="center">
+  <em>Specializing in scalable cloud architectures, automated CI/CD workflows, and Infrastructure as Code.</em>
+</p>
 
 ---
 
-## 🚀 About Me
-Main aik passionate **Cloud & DevOps Engineer** hoon jo scalable, secure aur highly available systems design karne mein maharat rakhta hai. Mera focus manual tasks ko automate karne aur complex infrastructure ko **Infrastructure as Code (IaC)** ke zariye streamline karne par hota hai.
+### 🚀 Executive Summary
+Main aik **DevOps Engineer** hoon jo infrastructure ko code (`IaC`) ke zariye streamline karne aur manual operations ko khatam karne mein maharat rakhta hoon. Mera focus hamesha **Cost Optimization** aur **High Availability** par hota hai.
 
-- 🏗️ Main aaj kal **Kubernetes (EKS/K3s)** aur **Serverless Architectures** par kaam kar raha hoon.
-- ⚙️ My workflow revolves around **Terraform**, **Docker**, and **Python Automation**.
-- 📊 Data-driven decisions lene ke liye **Prometheus** aur **Grafana** ka istemal karta hoon.
-
----
-
-## 🛠️ Tech Stack & Tools
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Cloud** | AWS (S3, Lambda, EC2, CloudFront, DynamoDB, EKS) |
-| **DevOps & IaC** | Terraform, Ansible, Docker, Kubernetes (K3s) |
-| **Monitoring** | Prometheus, Grafana |
-| **Scripting** | Python, Bash, Node.js |
-| **Web Tech** | ReactJS, Apache, Nginx |
+- 🏗️ Currently architecting **Kubernetes (EKS/K3s)** clusters & **Serverless** systems.
+- ⚙️ Expertise in **Terraform** for multi-cloud provisioning and **Ansible** for configuration management.
+- 📊 Driving reliability through **Prometheus** & **Grafana** observability stacks.
 
 ---
 
-## 📈 Key Professional Highlights
-- **Sovereign-Ops:** Aik autonomous cloud engine design kiya jo Prometheus metrics ki bunyaad par scaling decisions leta hai.
-- **Microservices Deployment:** React aur MongoDB par mushtamil 3-tier application ko K3s cluster par deploy aur manage kiya.
-- **Cost Optimization:** AWS Lambda aur Serverless use karte huwe infrastructure costs ko optimize karne ke solutions design kiye.
+### 🛠️ Technical Arsenal
+
+<table align="center">
+  <tr>
+    <td align="center" width="220"><strong>Cloud & IaC</strong></td>
+    <td align="center" width="220"><strong>Containers & Orchestration</strong></td>
+    <td align="center" width="220"><strong>Automation & Scripting</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Terraform-5835CC?style=flat-square&logo=terraform&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/K3s-FFC61C?style=flat-square&logo=kubernetes&logoColor=black" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Monitoring</strong></td>
+    <td align="center"><strong>Web Technologies</strong></td>
+    <td align="center"><strong>Version Control</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /><br>
+      <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 GitHub Analytics
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sam-One67&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-One67&layout=compact&theme=radical)
+### 📈 Professional Highlights (The "Impact" Factor)
+
+*   💎 **Sovereign-Ops:** Designed an autonomous engine that uses **Prometheus** metrics to drive **Python-based** scaling decisions, reducing manual overhead significantly.
+*   🏗️ **Microservices Orchestration:** Deployed a full-stack **React/Node.js/MongoDB** architecture on **K3s**, ensuring seamless service discovery and persistent storage.
+*   💰 **Cost Optimization:** Leveraged **AWS Lambda** and **Event-Driven Architecture** to cut down infrastructure costs by optimizing resource utilization.
 
 ---
 
-## 🤝 Connect with Me
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- **Portfolio/Blog:** [your-website.com](https://your-website.com)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
+### 📊 My GitHub Journey
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sam-One67&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-One67&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</p>
 
 ---
 
-> *"The best way to predict the future is to automate it."*
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20automate%20it." />
+</p>
