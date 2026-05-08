@@ -1,53 +1,66 @@
-# 🚀 Hi there, I'm Muhammad Ahmed! 
-### ☁️ Cloud & DevOps Engineer | Infrastructure Automation Specialist
-
-Mera maqsad systems ko automate karna aur unhe scale karna hai. Main "Infrastructure as Code" aur "Everything as Code" ka bada supporter hoon.
+# Hi there, I'm Muhammad Ahmed 👋
+### DevOps Engineer | Infrastructure Automation & Platform Specialist
 
 ---
 
-## 🛠 My Tech Stack
+## 👨‍💻 About Me
+I am a **DevOps Engineer** dedicated to streamlining software delivery and automating complex infrastructure. My goal is to build highly resilient systems using **Infrastructure as Code (IaC)** and modern orchestration patterns to ensure maximum uptime and scalability.
 
-| Category | Tools |
-| :--- | :--- |
-| **Cloud** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)[cite: 1] |
-| **Containerization** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)[cite: 1] |
-| **IaC & Config** | ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%23EE0000.svg?style=flat&logo=ansible&logoColor=white)[cite: 1] |
-| **Scripting** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Bash](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)[cite: 1] |
-| **Orchestration** | ![K3s](https://img.shields.io/badge/K3s-FFC107?style=flat&logo=kubernetes&logoColor=black)[cite: 1] |
+- 🔭 I am currently focusing on **Autonomous Operations** and **Cloud-Native Architectures**.
+- ⚙️ Expert in implementing **Infrastructure as Code** for reproducible environment provisioning.
+- 🛠️ Specialized in **Containerization**, **Orchestration**, and **System Hardening**.
 
 ---
 
-## 🌟 Key Projects
+## 🛠️ Tech Stack
 
-### 🌩️ Sovereign-Ops: Autonomous Cloud Operations Engine
-*   **AIOps Focus:** Maine ek self-managing environment banaya jo system metrics ki bunyaad par automatically scaling handle karta hai.[cite: 1]
-*   **Infrastructure:** AWS provisioning ke liye **Terraform** aur configuration ke liye **Ansible** ka use kiya.[cite: 1]
-*   **Decision Engine:** Python-based logic jo thresholds monitor karke infrastructure ko optimize karta hai.[cite: 1]
+### 🏗️ Infrastructure as Code & Cloud
+![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) 
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 
-### 🏗️ 3-Tier Microservices Deployment[cite: 1]
-*   **Full Stack:** React frontend, Node.js backend, aur MongoDB ko containerize karke K3s cluster par deploy kiya.[cite: 1]
-*   **Raw Manifests:** High-level abstractions (like Helm) ke bajaye plain Kubernetes manifests use kiye taake resource limits aur networking par full control rahe.[cite: 1]
-*   **Networking:** Secure pod-to-service communication aur service discovery ko implement kiya.[cite: 1]
+### 🐋 Containerization & Orchestration
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
+![K3s](https://img.shields.io/badge/K3s-FFC61C?style=for-the-badge&logo=kubernetes&logoColor=black)
+
+### 📈 Monitoring & Observability
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) 
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+
+### 💻 Automation & Scripting
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ---
 
-## 👨‍💻 My Philosophy
-*   **Efficiency:** Manual tasks ko 100% automate karna.[cite: 2]
-*   **Stability:** Self-healing systems banana jisse downtime zero ho sake.[cite: 2]
-*   **Learning:** Kubernetes primitives aur manual resource management mein deep-dive karna.[cite: 1]
+## 🌟 Featured Projects
+
+### 🤖 [Sovereign-Ops](https://github.com/Sam-One67)
+*An autonomous operations engine that integrates Python with Prometheus to automate scaling and self-healing system logic.*
+- **Focus:** Automation, Monitoring, Scalability.
+
+### 🏗️ [3-Tier Microservices Deployment](https://github.com/Sam-One67)
+*End-to-end orchestration of a microservices architecture on K3s, featuring persistent data layers and frontend services.*
+- **Focus:** Kubernetes, Container Orchestration, Networking.
+
+### ⚡ [Serverless Contact Engine](https://github.com/Sam-One67)
+*A robust, event-driven backend solution utilizing AWS Lambda and DynamoDB for automated data processing.*
+- **Focus:** AWS Automation, Serverless, Performance Optimization.
 
 ---
 
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sam-One67&show_icons=true&theme=radical)[cite: 1]
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-One67&layout=compact&theme=radical)[cite: 1]
+## 📊 GitHub Analytics
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Sam-One67&show_icons=true&theme=dark&hide_border=true" alt="Ahmed's GitHub Stats" />
+</p>
 
 ---
 
 ## 📫 Let's Connect
-*   **GitHub:** [github.com/Sam-One67](https://github.com/Sam-One67)[cite: 1, 3]
-*   **Portfolio:** AWS S3-hosted static site with Terraform-managed Lambda/DynamoDB contact form.[cite: 1]
-*   **Role:** Open for Cloud & DevOps Engineer roles.[cite: 1]
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile-link) 
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
 ---
-*“Automating the world, one script at a time.”* 🚀[cite: 1]
+*"The best way to predict the future is to automate it."*
