@@ -1,6 +1,18 @@
-# 👋 Hi there! I'm Muhammad Ahmed
+# 👋 Hi there! I'm Muhammad Ahmed 🧤
 
 I am a **DevOps Engineer** who specializes in transforming complex manual workflows into seamless, automated pipelines. My focus is on building high-availability systems using **Kubernetes** and **Terraform**, ensuring that infrastructure is not just scalable, but also secure and cost-efficient. I thrive on solving "it works on my machine" problems by implementing robust containerization and serverless solutions.
+
+---
+
+### 🤝 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_ID" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="https://github.com/ahmed-647" target="blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
+<a href="mailto:YOUR_EMAIL@gmail.com" target="blank"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
+<a href="https://twitter.com/YOUR_TWITTER" target="blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" /></a>
+<a href="https://discord.gg/YOUR_DISCORD" target="blank"><img src="https://img.shields.io/badge/discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="discord" /></a>
+</p>
 
 ---
 
@@ -19,20 +31,20 @@ I am a **DevOps Engineer** who specializes in transforming complex manual workfl
 #### 🤖 [1. Sovereign-Ops: Autonomous Scaling Engine](https://github.com/ahmed-647)
 *Intelligent self-healing cloud operations.*
 - **Core:** Built using **Python** and **Prometheus** metrics to automate scaling logic beyond standard HPA capabilities.
-- **Innovation:** Engineered a monitoring-driven automated threshold trigger system to maintain system health.
-- **Impact:** Reduced manual operational overhead by enabling infrastructure to react dynamically to real-time traffic telemetry.
+- **Innovation:** Engineered a monitoring-driven automated threshold trigger system.
+- **Impact:** Enabled infrastructure to react dynamically to real-time traffic telemetry.
 
 #### 🎡 [2. Global EKS Scalability & Compliance Platform](https://github.com/ahmed-647)
 *Zero-Downtime Multi-Region Deployment Engine.*
-- **Blue-Green Strategy:** Implemented a robust deployment pattern on **Amazon EKS** for zero-downtime releases and predictable rollbacks.
-- **GitOps & CI/CD:** Integrated **ArgoCD** for continuous reconciliation and **Jenkins** for image scanning and ECR integration.
-- **IaC:** Fully provisioned via **Terraform** (VPC, EKS, Networking) to ensure immutable environment parity.
+- **Strategy:** Blue-Green Deployment on **Amazon EKS** for zero-downtime releases.
+- **GitOps:** Integrated **ArgoCD** for continuous reconciliation and **Jenkins** for secure CI pipelines.
+- **IaC:** Fully provisioned via **Terraform** for complete environment parity.
 
 #### 🏗️ [3. Advanced 3-Tier Microservices Deployment](https://github.com/ahmed-647)
 *Production-grade K3s architecture on AWS.*
-- **Architecture:** Deployed a decoupled **React/Node.js/MongoDB** stack on a lightweight **K3s** cluster.
-- **Kubernetes Primitives:** Managed complex networking via **NodePort** and **ClusterIP**, with **Persistent Volumes (PVC)** for data durability.
-- **Security:** Hardened the infrastructure using **AWS Security Groups**, ensuring backend and database services are isolated from public traffic.
+- **Architecture:** Deployed a decoupled **React/Node.js/MongoDB** stack on **K3s**.
+- **Storage:** Implemented **Persistent Volumes (PVC)** for data durability.
+- **Security:** Hardened via **AWS Security Groups** for internal service isolation.
 
 ---
 
@@ -41,16 +53,6 @@ I am a **DevOps Engineer** who specializes in transforming complex manual workfl
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=ahmed-647&show_icons=true&theme=radical&hide_border=true" alt="Muhammad Ahmed Stats" height="180" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-647&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180" />
-</p>
-
----
-
-### 📫 Connect with Me
-
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_ID" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/ahmed-647" target="blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="mailto:YOUR_EMAIL@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
