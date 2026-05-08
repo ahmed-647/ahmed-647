@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm <span style="color: #2b6cb0;">Muhammad Ahmed</span>
+#  Hi there! I'm <span style="color: #2b6cb0;">Muhammad Ahmed</span> 👋
 
 ### 🙋 About Me
 I am a **Dynamic DevOps Engineer** driven by the mission to build "Zero-Friction" infrastructure. I specialize in architecting high-availability cloud ecosystems using **Kubernetes** and **Terraform**, ensuring every deployment is a perfect blend of **Security, Scalability, and Cost-Efficiency**. My expertise lies in transforming chaotic manual workflows into streamlined, automated pipelines that empower development teams to ship faster with 100% reliability. I don't just manage servers; I engineer resilient environments that act as the backbone of modern business innovation.
@@ -73,5 +73,5 @@ I am a **Dynamic DevOps Engineer** driven by the mission to build "Zero-Friction
 </p>
 
 ---
-> *"DevOps is not a goal, but a never-ending process of continual improvement ❤️✨."*
+> *"Engineering isn't just about building systems; it's about architecting **reliability** that scales with **vision** and **innovation** ❤️✨."*
 ---
