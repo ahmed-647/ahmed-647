@@ -1,52 +1,65 @@
-# 👋 Hi there! I'm Muhammad Ahmed
+# 👋 Hi there! I'm <span style="color: #2b6cb0;">Muhammad Ahmed</span> 🧤
 
-I am a **Results-Driven DevOps Engineer** dedicated to bridging the gap between development and operations through high-velocity automation. My expertise lies in architecting **Scalable Cloud Infrastructure** and **Kubernetes Orchestration**, transforming manual workflows into resilient, self-healing systems. I am passionate about optimizing system performance and ensuring zero-downtime deployments for complex, multi-tier applications.
-
----
-
-### 🛠️ Technical Expertise & Cloud Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white" />
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white" />
-</p>
+I am a **High-Impact DevOps Engineer** specializing in architecting resilient, automated cloud ecosystems. My mission is to eliminate manual friction by engineering robust **Kubernetes** environments and **Terraform**-led infrastructure. I thrive on bridging the gap between complex development needs and scalable operational excellence, ensuring that production systems are always secure, efficient, and future-ready.
 
 ---
 
-### Engineering Impact & Metrics
+### 🛠️ Technical Stack & Cloud Services
 
-| Metric | Specialization | Focus Area |
-| :--- | :--- | :--- |
-| ☁️ **Cloud Native** | AWS / EKS / K3s | Infrastructure Scalability |
-| 🔄 **CI/CD** | Jenkins / GitHub Actions | Accelerated Delivery |
-| 🏗️ **IaC** | Terraform / Ansible | Immutable Infrastructure |
-| 📊 **Observability** | Prometheus / Grafana | Proactive Monitoring |
+<p align="left">
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white" />
+<img src="https://img.shields.io/badge/ArgoCD-%23EF7B4D.svg?style=for-the-badge&logo=argo&logoColor=white" />
+</p>
+<p align="left">
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white" />
+<img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" />
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+<p align="left">
+<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
+</p>
 
 ---
 
 ### 🌟 Featured Projects
 
-#### 🤖 [Sovereign-Ops (Autonomous Engine)](https://github.com/ahmed-647)
-- **Core:** Built using **Python** and **Prometheus** for automated scaling logic.
-- **Impact:** Implemented monitoring-driven actions to ensure system health and performance optimization.
+#### 🤖 [1. Sovereign-Ops: Autonomous Scaling Engine](https://github.com/ahmed-647)
+*Intelligent self-healing cloud operations.*
+- **Core:** Built using **Python** and **Prometheus** metrics to automate scaling logic beyond standard HPA capabilities.
+- **Innovation:** Engineered a monitoring-driven automated threshold trigger system.
+- **Impact:** Enabled infrastructure to react dynamically to real-time traffic telemetry.
 
-#### 🎡 [Advanced 3-Tier Microservices Deployment](https://github.com/ahmed-647)
-- **Infrastructure:** Deployed a microservices-based application using **K3s** on AWS.
-- **Stack:** Integrated a **ReactJS** frontend with a **Node.js/MongoDB** backend.
+#### 🎡 [2. Global EKS Scalability & Compliance Platform](https://github.com/ahmed-647)
+*Zero-Downtime Multi-Region Deployment Engine.*
+- **Strategy:** Blue-Green Deployment on **Amazon EKS** for zero-downtime releases.
+- **GitOps:** Integrated **ArgoCD** for continuous reconciliation and **Jenkins** for secure CI pipelines.
+- **IaC:** Fully provisioned via **Terraform** for complete environment parity.
 
-#### 🏗️ [Cloud Infrastructure as Code](https://github.com/ahmed-647)
-- **AWS Setup:** Automated **S3 bucket** configuration and **CloudFront** distribution using **Terraform**.
-- **Configuration:** Used **Ansible** for automated server setup and system hardening.
+#### 🏗️ [3. Advanced 3-Tier Microservices Deployment](https://github.com/ahmed-647)
+*Production-grade K3s architecture on AWS.*
+- **Architecture:** Deployed a decoupled **React/Node.js/MongoDB** stack on **K3s**.
+- **Storage:** Implemented **Persistent Volumes (PVC)** for data durability.
+- **Security:** Hardened via **AWS Security Groups** for internal service isolation.
+
+---
+
+### 📈 GitHub Metrics
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-647&show_icons=true&theme=radical&hide_border=true" alt="Ahmed's Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-647&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180" />
+</p>
 
 ---
 
@@ -59,4 +72,5 @@ I am a **Results-Driven DevOps Engineer** dedicated to bridging the gap between 
 </p>
 
 ---
-*Built with ❤️ and Automation by Ahmed.*
+> *"Engineering isn't just about building systems; it's about building reliability that scales with vision ❤️."*
+---
