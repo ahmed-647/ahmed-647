@@ -15,8 +15,6 @@
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=🚀+Building+Zero-Friction+Infrastructure;☸️+Kubernetes+%7C+Terraform+%7C+AWS+%7C+GitOps;⚡+Turning+Manual+Chaos+into+Pure+Automation;🛡️+Secure+%7C+Scalable+%7C+Always+Production-Ready)](https://git.io/typing-svg)
-
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_ID)
