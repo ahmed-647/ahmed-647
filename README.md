@@ -1,26 +1,33 @@
 <div align="center">
 
-<!-- BANNER — GitHub compatible, dark geometric style via capsule-render -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:070a0f,50:0c1a2e,100:070a0f&height=200&text=Muhammad%20Ahmed&fontSize=52&fontColor=e0f2fe&fontAlignY=38&animation=fadeIn&desc=▸%20DevOps%20Engineer%20%20▸%20Cloud%20Architect%20%20▸%20Automation%20Specialist&descSize=16&descAlignY=60&descColor=7dd3fc&stroke=0ea5e9&strokeWidth=2" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                     HERO BANNER                           -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000d1a,30:003366,60:001a33,100:000d1a&height=250&text=Muhammad%20Ahmed&fontSize=60&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=DevOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Automation%20Specialist&descSize=18&descAlignY=62&descColor=38bdf8&stroke=0ea5e9&strokeWidth=3" width="100%"/>
 
 <br/>
 
-<!-- Tech tag badges -->
-![Kubernetes](https://img.shields.io/badge/%E2%96%B8%20Kubernetes-0c1a2e?style=for-the-badge&logo=kubernetes&logoColor=67e8f9)
-![Terraform](https://img.shields.io/badge/%E2%96%B8%20Terraform-0c1a2e?style=for-the-badge&logo=terraform&logoColor=7dd3fc)
-![AWS](https://img.shields.io/badge/%E2%96%B8%20AWS-0c1a2e?style=for-the-badge&logo=amazon-aws&logoColor=a5b4fc)
-![GitOps](https://img.shields.io/badge/%E2%96%B8%20GitOps-0c1a2e?style=for-the-badge&logo=argo&logoColor=6ee7b7)
-![Docker](https://img.shields.io/badge/%E2%96%B8%20Docker-0c1a2e?style=for-the-badge&logo=docker&logoColor=fdba74)
-![CI/CD](https://img.shields.io/badge/%E2%96%B8%20CI%2FCD-0c1a2e?style=for-the-badge&logo=github-actions&logoColor=d8b4fe)
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=🚀+Building+Zero-Friction+Infrastructure;☸️+Kubernetes+%7C+Terraform+%7C+AWS+%7C+GitOps;⚡+Turning+Manual+Chaos+into+Pure+Automation;🛡️+Secure+%7C+Scalable+%7C+Always+Production-Ready;💡+Infrastructure+that+Thinks%2C+Heals+%26+Scales)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- Tech stack pills -->
+![Kubernetes](https://img.shields.io/badge/▸_Kubernetes-0c1a2e?style=for-the-badge&logo=kubernetes&logoColor=67e8f9)
+![Terraform](https://img.shields.io/badge/▸_Terraform-0c1a2e?style=for-the-badge&logo=terraform&logoColor=7dd3fc)
+![AWS](https://img.shields.io/badge/▸_AWS-0c1a2e?style=for-the-badge&logo=amazon-aws&logoColor=a5b4fc)
+![GitOps](https://img.shields.io/badge/▸_GitOps-0c1a2e?style=for-the-badge&logo=argo&logoColor=6ee7b7)
+![Docker](https://img.shields.io/badge/▸_Docker-0c1a2e?style=for-the-badge&logo=docker&logoColor=fdba74)
+![CI/CD](https://img.shields.io/badge/▸_CI%2FCD-0c1a2e?style=for-the-badge&logo=github-actions&logoColor=d8b4fe)
 
 <br/><br/>
 
-<br/>
-
+<!-- Social / Contact Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_ID)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmed-647)
 [![Gmail](https://img.shields.io/badge/Gmail-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=ahmed-647&color=00d4ff&style=for-the-badge&label=Profile+Views)](https://github.com/ahmed-647)
+[![Profile Views](https://komarev.com/ghpvc/?username=ahmed-647&color=38bdf8&style=for-the-badge&label=Profile+Views)](https://github.com/ahmed-647)
 
 </div>
 
@@ -95,39 +102,45 @@ I don't just build efficiently — I build *economically*. Right-sizing, spot in
 
 <div align="center">
 
-#### ☁️ Cloud & Orchestration
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+**☁️ Cloud & Orchestration**
 
-#### 🏗️ Infrastructure as Code
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-%23EF7B4D.svg?style=for-the-badge&logo=argo&logoColor=white)
+[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
+[![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)](https://helm.sh)
 
-#### ⚙️ CI/CD Pipelines
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+**🏗️ Infrastructure as Code**
 
-#### 📊 Monitoring & Observability
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
+[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://terraform.io)
+[![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)](https://ansible.com)
+[![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)](https://argoproj.github.io)
 
-#### 💻 Scripting & OS
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+**⚙️ CI/CD Pipelines**
 
-#### 🗄️ App Stack & Databases
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://jenkins.io)
+[![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com)
+
+**📊 Monitoring & Observability**
+
+[![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)](https://prometheus.io)
+[![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com)
+[![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)](https://elastic.co)
+
+**💻 Scripting & OS**
+
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://linux.org)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://gnu.org/software/bash)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)](https://yaml.org)
+
+**🗄️ App Stack & Databases**
+
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://mongodb.com)
+[![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)](https://aws.amazon.com/dynamodb)
+[![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org)
 
 </div>
 
@@ -206,16 +219,6 @@ I don't just build efficiently — I build *economically*. Right-sizing, spot in
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ahmed-647&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="95%"/>
-
-</div>
-
----
-
 ## 🚀 Currently Leveling Up
 
 <div align="center">
@@ -270,6 +273,6 @@ philosophy:   "If you ran it twice manually, it should already be automated."
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:070a0f,50:0c1a2e,100:070a0f&height=60&fontSize=13&fontColor=7dd3fc&fontAlignY=58&text=❝%20If%20you%20ran%20it%20twice%20manually%2C%20it%20should%20already%20be%20automated.%20❞%20—%20Muhammad%20Ahmed&animation=fadeIn&stroke=0ea5e9&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000d1a,50:003366,100:000d1a&height=60&fontSize=13&fontColor=38bdf8&fontAlignY=58&text=❝%20If%20you%20ran%20it%20twice%20manually%2C%20it%20should%20already%20be%20automated.%20❞%20—%20Muhammad%20Ahmed&animation=fadeIn&stroke=0ea5e9&strokeWidth=1" width="100%"/>
 
 </div>
