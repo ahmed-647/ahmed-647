@@ -1,33 +1,26 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     HERO BANNER                           -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000d1a,30:003366,60:001a33,100:000d1a&height=250&text=Muhammad%20Ahmed&fontSize=60&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=DevOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Automation%20Specialist&descSize=18&descAlignY=62&descColor=38bdf8&stroke=0ea5e9&strokeWidth=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080c14,50:0a1628,100:080c14&height=220&text=Muhammad%20Ahmed&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=DevOps%20Engineer%20%E2%80%A2%20Cloud%20Architect%20%E2%80%A2%20Automation%20Specialist&descSize=17&descAlignY=58&descColor=00b4d8&stroke=00b4d8&strokeWidth=2" width="100%"/>
 
 <br/>
 
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=🚀+Building+Zero-Friction+Infrastructure;☸️+Kubernetes+%7C+Terraform+%7C+AWS+%7C+GitOps;⚡+Turning+Manual+Chaos+into+Pure+Automation;🛡️+Secure+%7C+Scalable+%7C+Always+Production-Ready;💡+Infrastructure+that+Thinks%2C+Heals+%26+Scales)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=750&lines=🚀+Building+Zero-Friction+Infrastructure;☸️+Kubernetes+%7C+Terraform+%7C+AWS+%7C+GitOps;⚡+Turning+Manual+Chaos+into+Pure+Automation;🛡️+Secure+%7C+Scalable+%7C+Always+Production-Ready;💡+Infrastructure+that+Thinks%2C+Heals+%26+Scales)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Tech stack pills -->
-![Kubernetes](https://img.shields.io/badge/▸_Kubernetes-0c1a2e?style=for-the-badge&logo=kubernetes&logoColor=67e8f9)
-![Terraform](https://img.shields.io/badge/▸_Terraform-0c1a2e?style=for-the-badge&logo=terraform&logoColor=7dd3fc)
-![AWS](https://img.shields.io/badge/▸_AWS-0c1a2e?style=for-the-badge&logo=amazon-aws&logoColor=a5b4fc)
-![GitOps](https://img.shields.io/badge/▸_GitOps-0c1a2e?style=for-the-badge&logo=argo&logoColor=6ee7b7)
-![Docker](https://img.shields.io/badge/▸_Docker-0c1a2e?style=for-the-badge&logo=docker&logoColor=fdba74)
-![CI/CD](https://img.shields.io/badge/▸_CI%2FCD-0c1a2e?style=for-the-badge&logo=github-actions&logoColor=d8b4fe)
+![Kubernetes](https://img.shields.io/badge/▸_Kubernetes-080c14?style=for-the-badge&logo=kubernetes&logoColor=00b4d8)
+![Terraform](https://img.shields.io/badge/▸_Terraform-080c14?style=for-the-badge&logo=terraform&logoColor=7dd3fc)
+![AWS](https://img.shields.io/badge/▸_AWS-080c14?style=for-the-badge&logo=amazon-aws&logoColor=a5b4fc)
+![GitOps](https://img.shields.io/badge/▸_GitOps-080c14?style=for-the-badge&logo=argo&logoColor=6ee7b7)
+![Docker](https://img.shields.io/badge/▸_Docker-080c14?style=for-the-badge&logo=docker&logoColor=fdba74)
+![CI/CD](https://img.shields.io/badge/▸_CI%2FCD-080c14?style=for-the-badge&logo=github-actions&logoColor=d8b4fe)
 
 <br/><br/>
 
-<!-- Social / Contact Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_ID)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmed-647)
 [![Gmail](https://img.shields.io/badge/Gmail-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=ahmed-647&color=38bdf8&style=for-the-badge&label=Profile+Views)](https://github.com/ahmed-647)
+[![Profile Views](https://komarev.com/ghpvc/?username=ahmed-647&color=00b4d8&style=for-the-badge&label=Profile+Views)](https://github.com/ahmed-647)
 
 </div>
 
@@ -273,6 +266,6 @@ philosophy:   "If you ran it twice manually, it should already be automated."
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000d1a,50:003366,100:000d1a&height=60&fontSize=13&fontColor=38bdf8&fontAlignY=58&text=❝%20If%20you%20ran%20it%20twice%20manually%2C%20it%20should%20already%20be%20automated.%20❞%20—%20Muhammad%20Ahmed&animation=fadeIn&stroke=0ea5e9&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080c14,50:0a1628,100:080c14&height=60&fontSize=13&fontColor=00b4d8&fontAlignY=58&text=❝%20If%20you%20ran%20it%20twice%20manually%2C%20it%20should%20already%20be%20automated.%20❞%20—%20Muhammad%20Ahmed&animation=fadeIn&stroke=00b4d8&strokeWidth=1" width="100%"/>
 
 </div>
