@@ -1,73 +1,22 @@
 <div align="center">
 
-<!-- GEOMETRIC TECH BANNER -->
-<div align="center">
+<!-- BANNER — GitHub compatible, dark geometric style via capsule-render -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:070a0f,50:0c1a2e,100:070a0f&height=200&text=Muhammad%20Ahmed&fontSize=52&fontColor=e0f2fe&fontAlignY=38&animation=fadeIn&desc=▸%20DevOps%20Engineer%20%20▸%20Cloud%20Architect%20%20▸%20Automation%20Specialist&descSize=16&descAlignY=60&descColor=7dd3fc&stroke=0ea5e9&strokeWidth=2" width="100%"/>
 
-<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
-  <!-- Dark background -->
-  <rect width="800" height="200" rx="12" fill="#070a0f"/>
+<br/>
 
-  <!-- Geometric corner accent top-right -->
-  <polygon points="640,0 800,0 800,140" fill="#0ea5e9" opacity="0.07"/>
-  <polygon points="700,0 800,0 800,80"  fill="#0ea5e9" opacity="0.10"/>
-  <polygon points="760,0 800,0 800,40"  fill="#38bdf8" opacity="0.15"/>
+<!-- Tech tag badges -->
+![Kubernetes](https://img.shields.io/badge/%E2%96%B8%20Kubernetes-0c1a2e?style=for-the-badge&logo=kubernetes&logoColor=67e8f9)
+![Terraform](https://img.shields.io/badge/%E2%96%B8%20Terraform-0c1a2e?style=for-the-badge&logo=terraform&logoColor=7dd3fc)
+![AWS](https://img.shields.io/badge/%E2%96%B8%20AWS-0c1a2e?style=for-the-badge&logo=amazon-aws&logoColor=a5b4fc)
+![GitOps](https://img.shields.io/badge/%E2%96%B8%20GitOps-0c1a2e?style=for-the-badge&logo=argo&logoColor=6ee7b7)
+![Docker](https://img.shields.io/badge/%E2%96%B8%20Docker-0c1a2e?style=for-the-badge&logo=docker&logoColor=fdba74)
+![CI/CD](https://img.shields.io/badge/%E2%96%B8%20CI%2FCD-0c1a2e?style=for-the-badge&logo=github-actions&logoColor=d8b4fe)
 
-  <!-- Geometric corner accent bottom-left -->
-  <polygon points="0,200 160,200 0,60" fill="#0ea5e9" opacity="0.05"/>
+<br/><br/>
 
-  <!-- Outer rings -->
-  <circle cx="700" cy="100" r="110" fill="none" stroke="#0ea5e9" stroke-width="0.5" opacity="0.25"/>
-  <circle cx="700" cy="100" r="78"  fill="none" stroke="#38bdf8" stroke-width="0.5" opacity="0.20"/>
-  <circle cx="700" cy="100" r="46"  fill="none" stroke="#7dd3fc" stroke-width="0.5" opacity="0.18"/>
-  <circle cx="700" cy="100" r="18"  fill="#0ea5e9" opacity="0.18"/>
-  <circle cx="700" cy="100" r="5"   fill="#38bdf8" opacity="0.60"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=🚀+Building+Zero-Friction+Infrastructure;☸️+Kubernetes+%7C+Terraform+%7C+AWS+%7C+GitOps;⚡+Turning+Manual+Chaos+into+Pure+Automation;🛡️+Secure+%7C+Scalable+%7C+Always+Production-Ready)](https://git.io/typing-svg)
 
-  <!-- Cross-hairs -->
-  <line x1="700" y1="55"  x2="700" y2="145" stroke="#0ea5e9" stroke-width="0.4" opacity="0.3"/>
-  <line x1="655" y1="100" x2="745" y2="100" stroke="#0ea5e9" stroke-width="0.4" opacity="0.3"/>
-
-  <!-- Grid dots -->
-  <g fill="#94a3b8" opacity="0.18">
-    <circle cx="540" cy="28" r="1.5"/><circle cx="562" cy="28" r="1.5"/><circle cx="584" cy="28" r="1.5"/><circle cx="606" cy="28" r="1.5"/>
-    <circle cx="540" cy="50" r="1.5"/><circle cx="562" cy="50" r="1.5"/><circle cx="584" cy="50" r="1.5"/><circle cx="606" cy="50" r="1.5"/>
-    <circle cx="540" cy="72" r="1.5"/><circle cx="562" cy="72" r="1.5"/><circle cx="584" cy="72" r="1.5"/><circle cx="606" cy="72" r="1.5"/>
-  </g>
-
-  <!-- Accent bar -->
-  <rect x="48" y="52" width="52" height="2.5" rx="1.2" fill="#0ea5e9" opacity="0.9"/>
-  <rect x="48" y="52" width="18" height="2.5" rx="1.2" fill="#7dd3fc"/>
-
-  <!-- Name -->
-  <text x="48" y="108" font-size="40" font-weight="700" fill="#f0f9ff"
-        font-family="'Segoe UI', sans-serif" letter-spacing="-0.5">Muhammad Ahmed</text>
-
-  <!-- Subtitle -->
-  <text x="50" y="136" font-size="14" fill="#7dd3fc"
-        font-family="'Courier New', monospace" letter-spacing="0.5">
-    ▸ DevOps Engineer  ▸ Cloud Architect  ▸ Automation Specialist
-  </text>
-
-  <!-- Tech tags -->
-  <rect x="50"  y="154" width="82" height="22" rx="4" fill="#0c1a2e" stroke="#0ea5e9" stroke-width="0.8"/>
-  <text x="91"  y="169" text-anchor="middle" font-size="11" fill="#67e8f9" font-family="'Courier New', monospace">Kubernetes</text>
-
-  <rect x="142" y="154" width="74" height="22" rx="4" fill="#0c1a2e" stroke="#38bdf8" stroke-width="0.8"/>
-  <text x="179" y="169" text-anchor="middle" font-size="11" fill="#7dd3fc" font-family="'Courier New', monospace">Terraform</text>
-
-  <rect x="226" y="154" width="48" height="22" rx="4" fill="#0c1a2e" stroke="#818cf8" stroke-width="0.8"/>
-  <text x="250" y="169" text-anchor="middle" font-size="11" fill="#a5b4fc" font-family="'Courier New', monospace">AWS</text>
-
-  <rect x="284" y="154" width="54" height="22" rx="4" fill="#0c1a2e" stroke="#34d399" stroke-width="0.8"/>
-  <text x="311" y="169" text-anchor="middle" font-size="11" fill="#6ee7b7" font-family="'Courier New', monospace">GitOps</text>
-
-  <rect x="348" y="154" width="54" height="22" rx="4" fill="#0c1a2e" stroke="#fb923c" stroke-width="0.8"/>
-  <text x="375" y="169" text-anchor="middle" font-size="11" fill="#fdba74" font-family="'Courier New', monospace">Docker</text>
-
-  <rect x="412" y="154" width="44" height="22" rx="4" fill="#0c1a2e" stroke="#c084fc" stroke-width="0.8"/>
-  <text x="434" y="169" text-anchor="middle" font-size="11" fill="#d8b4fe" font-family="'Courier New', monospace">CI/CD</text>
-</svg>
-
-</div>
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_ID)
@@ -269,6 +218,39 @@ I don't just build efficiently — I build *economically*. Right-sizing, spot in
 
 ---
 
+## 🚀 Currently Leveling Up
+
+<div align="center">
+
+| What I'm Learning | Why It Matters |
+|---|---|
+| 🤖 **Platform Engineering & Internal Developer Portals** | Building self-service infra platforms so devs ship faster without ops bottlenecks |
+| 🔒 **Advanced eBPF & Cilium Networking** | Next-gen kernel-level observability and zero-trust network policies in K8s |
+| ☁️ **Multi-Cloud Architecture (AWS + GCP)** | Designing resilient workloads that aren't locked into a single cloud provider |
+| 🧠 **AI/ML Infrastructure (MLOps)** | Orchestrating model training pipelines & GPU workloads on Kubernetes |
+
+</div>
+
+---
+
+## ⚡ Quick Facts
+
+```yaml
+name:         Muhammad Ahmed
+location:     Pakistan 🇵🇰
+role:         DevOps Engineer | Cloud Architect
+focus:        Zero-Friction Infrastructure
+superpowers:
+  - Turning manual chaos into pure automation
+  - Making infrastructure self-heal & self-scale
+  - Building pipelines nobody needs to babysit
+  - Shipping to prod without losing sleep
+currently:    Open to DevOps / Cloud / SRE roles
+philosophy:   "If you ran it twice manually, it should already be automated."
+```
+
+---
+
 ## 💬 Let's Build Something Great
 
 <div align="center">
@@ -288,12 +270,8 @@ I don't just build efficiently — I build *economically*. Right-sizing, spot in
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
-
 <div align="center">
 
-*"Engineering isn't just about building systems — it's about architecting **reliability** that scales with **vision** and **innovation** ❤️✨"*
-
-**— Muhammad Ahmed**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:070a0f,50:0c1a2e,100:070a0f&height=60&fontSize=13&fontColor=7dd3fc&fontAlignY=58&text=❝%20If%20you%20ran%20it%20twice%20manually%2C%20it%20should%20already%20be%20automated.%20❞%20—%20Muhammad%20Ahmed&animation=fadeIn&stroke=0ea5e9&strokeWidth=1" width="100%"/>
 
 </div>
