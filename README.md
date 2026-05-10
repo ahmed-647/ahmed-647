@@ -1,73 +1,8 @@
-<!-- GEOMETRIC TECH BANNER -->
 <div align="center">
 
-<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
-  <!-- Dark background -->
-  <rect width="800" height="200" rx="12" fill="#070a0f"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammad%20Ahmed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=DevOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Automation%20Specialist&descAlignY=55&descSize=16"/>
 
-  <!-- Geometric corner accent top-right -->
-  <polygon points="640,0 800,0 800,140" fill="#0ea5e9" opacity="0.07"/>
-  <polygon points="700,0 800,0 800,80" fill="#0ea5e9" opacity="0.10"/>
-  <polygon points="760,0 800,0 800,40" fill="#38bdf8" opacity="0.15"/>
-
-  <!-- Geometric corner accent bottom-left -->
-  <polygon points="0,200 160,200 0,60" fill="#0ea5e9" opacity="0.05"/>
-
-  <!-- Outer rings -->
-  <circle cx="700" cy="100" r="110" fill="none" stroke="#0ea5e9" stroke-width="0.5" opacity="0.25"/>
-  <circle cx="700" cy="100" r="78"  fill="none" stroke="#38bdf8" stroke-width="0.5" opacity="0.20"/>
-  <circle cx="700" cy="100" r="46"  fill="none" stroke="#7dd3fc" stroke-width="0.5" opacity="0.18"/>
-  <circle cx="700" cy="100" r="18"  fill="#0ea5e9" opacity="0.18"/>
-  <circle cx="700" cy="100" r="5"   fill="#38bdf8" opacity="0.60"/>
-
-  <!-- Cross-hairs on circle -->
-  <line x1="700" y1="55" x2="700" y2="145" stroke="#0ea5e9" stroke-width="0.4" opacity="0.3"/>
-  <line x1="655" y1="100" x2="745" y2="100" stroke="#0ea5e9" stroke-width="0.4" opacity="0.3"/>
-
-  <!-- Grid dots -->
-  <g fill="#94a3b8" opacity="0.18">
-    <circle cx="540" cy="28" r="1.5"/><circle cx="562" cy="28" r="1.5"/><circle cx="584" cy="28" r="1.5"/><circle cx="606" cy="28" r="1.5"/>
-    <circle cx="540" cy="50" r="1.5"/><circle cx="562" cy="50" r="1.5"/><circle cx="584" cy="50" r="1.5"/><circle cx="606" cy="50" r="1.5"/>
-    <circle cx="540" cy="72" r="1.5"/><circle cx="562" cy="72" r="1.5"/><circle cx="584" cy="72" r="1.5"/><circle cx="606" cy="72" r="1.5"/>
-  </g>
-
-  <!-- Accent top horizontal bar -->
-  <rect x="48" y="52" width="52" height="2.5" rx="1.2" fill="#0ea5e9" opacity="0.9"/>
-  <rect x="48" y="52" width="18" height="2.5" rx="1.2" fill="#7dd3fc"/>
-
-  <!-- Name -->
-  <text x="48" y="108" font-size="40" font-weight="700" fill="#f0f9ff" font-family="'Segoe UI', sans-serif" letter-spacing="-0.5">Muhammad Ahmed</text>
-
-  <!-- Subtitle -->
-  <text x="50" y="136" font-size="14" fill="#7dd3fc" font-family="'Courier New', monospace" letter-spacing="0.5">▸ DevOps Engineer  ▸ Cloud Architect  ▸ Automation Specialist</text>
-
-  <!-- Tech tags -->
-  <rect x="50"  y="154" width="82"  height="22" rx="4" fill="#0c1a2e" stroke="#0ea5e9" stroke-width="0.8"/>
-  <text x="91"  y="169" text-anchor="middle" font-size="11" fill="#67e8f9" font-family="'Courier New', monospace">Kubernetes</text>
-
-  <rect x="142" y="154" width="74"  height="22" rx="4" fill="#0c1a2e" stroke="#38bdf8" stroke-width="0.8"/>
-  <text x="179" y="169" text-anchor="middle" font-size="11" fill="#7dd3fc" font-family="'Courier New', monospace">Terraform</text>
-
-  <rect x="226" y="154" width="48"  height="22" rx="4" fill="#0c1a2e" stroke="#818cf8" stroke-width="0.8"/>
-  <text x="250" y="169" text-anchor="middle" font-size="11" fill="#a5b4fc" font-family="'Courier New', monospace">AWS</text>
-
-  <rect x="284" y="154" width="54"  height="22" rx="4" fill="#0c1a2e" stroke="#34d399" stroke-width="0.8"/>
-  <text x="311" y="169" text-anchor="middle" font-size="11" fill="#6ee7b7" font-family="'Courier New', monospace">GitOps</text>
-
-  <rect x="348" y="154" width="54"  height="22" rx="4" fill="#0c1a2e" stroke="#fb923c" stroke-width="0.8"/>
-  <text x="375" y="169" text-anchor="middle" font-size="11" fill="#fdba74" font-family="'Courier New', monospace">Docker</text>
-
-  <rect x="412" y="154" width="44"  height="22" rx="4" fill="#0c1a2e" stroke="#c084fc" stroke-width="0.8"/>
-  <text x="434" y="169" text-anchor="middle" font-size="11" fill="#d8b4fe" font-family="'Courier New', monospace">CI/CD</text>
-</svg>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&lines=🚀+Building+Zero-Friction+Infrastructure;☸️+Kubernetes+%7C+Terraform+%7C+AWS+%7C+GitOps;⚡+Turning+Manual+Chaos+into+Pure+Automation;🛡️+Secure+%7C+Scalable+%7C+Always+Production-Ready)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&lines=🚀+Building+Zero-Friction+Infrastructure;☸️+Kubernetes+%7C+Terraform+%7C+AWS+%7C+GitOps;⚡+Turning+Manual+Chaos+into+Pure+Automation;🛡️+Secure+%7C+Scalable+%7C+Always+Production-Ready)](https://git.io/typing-svg)
 
 <br/>
 
@@ -270,39 +205,6 @@ I don't just build efficiently — I build *economically*. Right-sizing, spot in
 
 ---
 
-## 🚀 Currently Leveling Up
-
-<div align="center">
-
-| What I'm Learning | Why It Matters |
-|---|---|
-| 🤖 **Platform Engineering & Internal Developer Portals** | Building self-service infra platforms so devs ship faster without ops bottlenecks |
-| 🔒 **Advanced eBPF & Cilium Networking** | Next-gen kernel-level observability and zero-trust network policies in K8s |
-| ☁️ **Multi-Cloud Architecture (AWS + GCP)** | Designing resilient workloads that aren't locked into a single cloud provider |
-| 🧠 **AI/ML Infrastructure (MLOps)** | Orchestrating model training pipelines & GPU workloads on Kubernetes |
-
-</div>
-
----
-
-## ⚡ Quick Facts
-
-```yaml
-name:         Muhammad Ahmed
-location:     Pakistan 🇵🇰
-role:         DevOps Engineer | Cloud Architect
-focus:        Zero-Friction Infrastructure
-superpowers:
-  - Turning manual chaos into pure automation
-  - Making infrastructure self-heal & self-scale
-  - Building pipelines nobody needs to babysit
-  - Shipping to prod without losing sleep
-currently:    Open to DevOps / Cloud / SRE roles
-philosophy:   "If you ran it twice manually, it should already be automated."
-```
-
----
-
 ## 💬 Let's Build Something Great
 
 <div align="center">
@@ -322,19 +224,12 @@ philosophy:   "If you ran it twice manually, it should already be automated."
 
 ---
 
-<!-- GEOMETRIC FOOTER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+
 <div align="center">
 
-<svg width="800" height="80" viewBox="0 0 800 80" xmlns="http://www.w3.org/2000/svg">
-  <rect width="800" height="80" rx="10" fill="#070a0f"/>
-  <polygon points="0,80 200,80 0,20"  fill="#0ea5e9" opacity="0.07"/>
-  <polygon points="600,80 800,80 800,20" fill="#0ea5e9" opacity="0.07"/>
-  <circle cx="400" cy="40" r="55" fill="none" stroke="#0ea5e9" stroke-width="0.5" opacity="0.2"/>
-  <circle cx="400" cy="40" r="30" fill="none" stroke="#38bdf8" stroke-width="0.5" opacity="0.15"/>
-  <circle cx="400" cy="40" r="8"  fill="#0ea5e9" opacity="0.20"/>
-  <line x1="0" y1="40" x2="340" y2="40" stroke="#0ea5e9" stroke-width="0.4" opacity="0.25"/>
-  <line x1="460" y1="40" x2="800" y2="40" stroke="#0ea5e9" stroke-width="0.4" opacity="0.25"/>
-  <text x="400" y="46" text-anchor="middle" font-size="13" fill="#7dd3fc" font-family="'Courier New', monospace">"If you ran it twice manually, it should already be automated." — Muhammad Ahmed</text>
-</svg>
+*"Engineering isn't just about building systems — it's about architecting **reliability** that scales with **vision** and **innovation** ❤️✨"*
+
+**— Muhammad Ahmed**
 
 </div>
