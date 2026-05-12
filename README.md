@@ -104,13 +104,13 @@ I don't just build efficiently — I build *economically*. Right-sizing, spot in
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<a href="#"><img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" height="30"/></a>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<a href="#"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="30"/></a>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="30"/></a>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
+<a href="#"><img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" height="30"/></a>
 
 <br/><br/><br/>
 
@@ -118,11 +118,11 @@ I don't just build efficiently — I build *economically*. Right-sizing, spot in
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+<a href="#"><img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" height="30"/></a>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+<a href="#"><img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" height="30"/></a>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
+<a href="#"><img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" height="30"/></a>
 
 <br/><br/><br/>
 
@@ -130,11 +130,11 @@ I don't just build efficiently — I build *economically*. Right-sizing, spot in
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+<a href="#"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" height="30"/></a>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+<a href="#"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" height="30"/></a>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+<a href="#"><img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" height="30"/></a>
 
 <br/><br/><br/>
 
@@ -142,11 +142,11 @@ I don't just build efficiently — I build *economically*. Right-sizing, spot in
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+<a href="#"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" height="30"/></a>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+<a href="#"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" height="30"/></a>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" />
+<a href="#"><img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" height="30"/></a>
 
 <br/><br/><br/>
 
@@ -154,13 +154,13 @@ I don't just build efficiently — I build *economically*. Right-sizing, spot in
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="30"/></a>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<a href="#"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" height="30"/></a>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30"/></a>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" />
+<a href="#"><img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" height="30"/></a>
 
 <br/><br/><br/>
 
@@ -168,15 +168,15 @@ I don't just build efficiently — I build *economically*. Right-sizing, spot in
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="30"/></a>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30"/></a>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<a href="#"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="30"/></a>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" />
+<a href="#"><img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" height="30"/></a>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+<a href="#"><img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" height="30"/></a>
 
 <br/>
 
@@ -275,44 +275,5 @@ I don't just build efficiently — I build *economically*. Right-sizing, spot in
 ## ⚡ Quick Facts
 
 ```yaml
-name:         Muhammad Ahmed
-location:     Pakistan 🇵🇰
-role:         DevOps Engineer | Cloud Architect
-focus:        Zero-Friction Infrastructure
-superpowers:
-  - Turning manual chaos into pure automation
-  - Making infrastructure self-heal & self-scale
-  - Building pipelines nobody needs to babysit
-  - Shipping to prod without losing sleep
-currently:    Open to DevOps / Cloud / SRE roles
-philosophy:   "If you ran it twice manually, it should already be automated."
-```
-
----
-
-## 💬 Let's Build Something Great
-
-<div align="center">
-
-### 🟢 Currently Open to DevOps / Cloud / SRE Opportunities
-
-*Whether you need someone to architect your cloud from scratch, optimize your existing infrastructure,*
-*or build pipelines that make your team 10x faster — let's talk.*
-
-<br/>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_ID"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-&nbsp;
-<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-Send%20Me%20a%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-&nbsp;
-<a href="https://github.com/ahmed-647"><img src="https://img.shields.io/badge/GitHub-See%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080c14,50:0a1628,100:080c14&height=60&fontSize=13&fontColor=00b4d8&fontAlignY=58&text=%E2%9D%9D%20If%20you%20ran%20it%20twice%20manually%2C%20it%20should%20already%20be%20automated.%20%E2%9D%9E%20%E2%80%94%20Muhammad%20Ahmed&animation=fadeIn&stroke=00b4d8&strokeWidth=1" width="100%"/>
-
-</div>
+name:         Muhammad Ahmed
+location:     Pakistan 🇵
