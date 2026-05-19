@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a1628,30:0d2a3a,60:0a2a2a,100:031a1a&height=220&text=Muhammad%20Ahmed&fontSize=60&fontColor=00e5d4&fontAlignY=40&animation=fadeIn&desc=DevOps%20Engineer%20%E2%80%A2%20Cloud%20Architect%20%E2%80%A2%20Automation%20Specialist&descSize=17&descAlignY=62&descColor=7dd8d4&stroke=00aaff&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a1628,30:0d2a3a,60:0a2a2a,100:031a1a&height=220&text=Harsh%20Trivedi&fontSize=60&fontColor=00e5d4&fontAlignY=40&animation=fadeIn&desc=DevOps%20Engineer%20%E2%80%A2%20Cloud%20Architect%20%E2%80%A2%20Automation%20Specialist&descSize=17&descAlignY=62&descColor=7dd8d4&stroke=00aaff&strokeWidth=2" width="100%"/>
 
 <br/>
 
@@ -35,7 +35,7 @@
 
 > ### *"I don't manage infrastructure. I architect ecosystems that manage themselves."*
 
-I'm **Muhammad Ahmed**🫡 — a **Dynamic DevOps Engineer** from 🇵🇰 Pakistan, on a mission to make **"Zero-Friction Infrastructure"** a reality for every engineering team I work with.
+I'm **Harsh Trivedi**🫡 — a **Dynamic DevOps Engineer** from 🇮🇳 India, on a mission to make **"Zero-Friction Infrastructure"** a reality for every engineering team I work with.
 
 While others are manually clicking through cloud consoles, I'm writing **Terraform** that provisions entire production environments in minutes. While others are writing deployment docs, I'm building **CI/CD pipelines** that deploy flawlessly — every single time, without human touch.
 
@@ -205,8 +205,8 @@ I don't just build efficiently — I build *economically*. Right-sizing, spot in
 ## ⚡ Quick Facts
 
 ```yaml
-name:         Muhammad Ahmed
-location:     Pakistan 🇵🇰
+name:         Harsh Trivedi
+location:     India 🇮🇳
 role:         DevOps Engineer | Cloud Architect
 focus:        Zero-Friction Infrastructure
 superpowers:
@@ -243,6 +243,6 @@ philosophy:   "If you ran it twice manually, it should already be automated."
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a1628,30:0d2a3a,60:0a2a2a,100:031a1a&height=60&fontSize=13&fontColor=00e5d4&fontAlignY=50&text=%E2%9D%9D%20If%20you%20ran%20it%20twice%20manually%2C%20it%20should%20already%20be%20automated.%20%E2%9D%9E%20%E2%80%94%20Muhammad%20Ahmed&animation=fadeIn&stroke=00aaff&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a1628,30:0d2a3a,60:0a2a2a,100:031a1a&height=60&fontSize=13&fontColor=00e5d4&fontAlignY=50&text=%E2%9D%9D%20Building%20systems%20that%20scale%2C%20teams%20that%20thrive%2C%20and%20infrastructure%20that%20never%20sleeps.%20%E2%9D%9E%20%E2%80%94%20Harsh%20Trivedi&animation=fadeIn&stroke=00aaff&strokeWidth=1" width="100%"/>
 
 </div>
