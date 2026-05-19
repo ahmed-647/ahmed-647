@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050f05,50:0a1f0a,100:1a1a05&height=220&text=Muhammad%20Ahmed&fontSize=58&fontColor=ffd700&fontAlignY=38&animation=fadeIn&desc=DevOps%20Engineer%20%E2%80%A2%20Cloud%20Architect%20%E2%80%A2%20Automation%20Specialist&descSize=17&descAlignY=58&descColor=a3c97a&stroke=b8860b&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a1628,30:0d2a3a,60:0a2a2a,100:031a1a&height=220&text=Muhammad%20Ahmed&fontSize=60&fontColor=00e5d4&fontAlignY=40&animation=fadeIn&desc=DevOps%20Engineer%20%E2%80%A2%20Cloud%20Architect%20%E2%80%A2%20Automation%20Specialist&descSize=17&descAlignY=62&descColor=7dd8d4&stroke=00aaff&strokeWidth=2" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=B8860B&center=true&vCenter=true&width=750&lines=Building+Zero-Friction+Infrastructure;Kubernetes+%7C+Terraform+%7C+AWS+%7C+GitOps;Turning+Manual+Chaos+into+Pure+Automation;Secure+%7C+Scalable+%7C+Always+Production-Ready;Infrastructure+that+Thinks%2C+Heals+and+Scales" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=750&lines=Building+Zero-Friction+Infrastructure;Kubernetes+%7C+Terraform+%7C+AWS+%7C+GitOps;Turning+Manual+Chaos+into+Pure+Automation;Secure+%7C+Scalable+%7C+Always+Production-Ready;Infrastructure+that+Thinks%2C+Heals+and+Scales" alt="Typing SVG" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Kubernetes-050f05?style=for-the-badge&logo=kubernetes&logoColor=ffd700" />
-<img src="https://img.shields.io/badge/Terraform-050f05?style=for-the-badge&logo=terraform&logoColor=b8860b" />
-<img src="https://img.shields.io/badge/AWS-050f05?style=for-the-badge&logo=amazon-aws&logoColor=ffd700" />
-<img src="https://img.shields.io/badge/GitOps-050f05?style=for-the-badge&logo=argo&logoColor=a3c97a" />
-<img src="https://img.shields.io/badge/Docker-050f05?style=for-the-badge&logo=docker&logoColor=b8860b" />
-<img src="https://img.shields.io/badge/CI%2FCD-050f05?style=for-the-badge&logo=github-actions&logoColor=ffd700" />
+<img src="https://img.shields.io/badge/Kubernetes-080c14?style=for-the-badge&logo=kubernetes&logoColor=00b4d8" />
+<img src="https://img.shields.io/badge/Terraform-080c14?style=for-the-badge&logo=terraform&logoColor=7dd3fc" />
+<img src="https://img.shields.io/badge/AWS-080c14?style=for-the-badge&logo=amazon-aws&logoColor=a5b4fc" />
+<img src="https://img.shields.io/badge/GitOps-080c14?style=for-the-badge&logo=argo&logoColor=6ee7b7" />
+<img src="https://img.shields.io/badge/Docker-080c14?style=for-the-badge&logo=docker&logoColor=fdba74" />
+<img src="https://img.shields.io/badge/CI%2FCD-080c14?style=for-the-badge&logo=github-actions&logoColor=d8b4fe" />
 
 <br/><br/>
 
@@ -23,7 +23,7 @@
 &nbsp;
 <a href="mailto:muhammadahmaad123@gmail.com"><img src="https://img.shields.io/badge/Gmail-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=ahmed-647&color=b8860b&style=for-the-badge&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=ahmed-647&color=00b4d8&style=for-the-badge&label=Profile+Views" />
 
 </div>
 
@@ -243,6 +243,6 @@ philosophy:   "If you ran it twice manually, it should already be automated."
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050f05,50:0a1f0a,100:1a1a05&height=60&fontSize=13&fontColor=b8860b&fontAlignY=58&text=%E2%9D%9D%20If%20you%20ran%20it%20twice%20manually%2C%20it%20should%20already%20be%20automated.%20%E2%9D%9E%20%E2%80%94%20Muhammad%20Ahmed&animation=fadeIn&stroke=b8860b&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a1628,30:0d2a3a,60:0a2a2a,100:031a1a&height=60&fontSize=13&fontColor=00e5d4&fontAlignY=50&text=%E2%9D%9D%20If%20you%20ran%20it%20twice%20manually%2C%20it%20should%20already%20be%20automated.%20%E2%9D%9E%20%E2%80%94%20Muhammad%20Ahmed&animation=fadeIn&stroke=00aaff&strokeWidth=1" width="100%"/>
 
 </div>
