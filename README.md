@@ -227,16 +227,7 @@ philosophy:   "If you ran it twice manually, it should already be automated."
 
 <div align="center">
 
-> *"Engineering isn't just about building systems — it's about architecting **reliability** that scales with **vision** and **innovation** ❤️✨"*
+> *"Building scalable and reliable infrastructure that helps teams deploy faster, operate confidently, and innovate without friction."* 🚀
 
 </div>
-
 ---
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080c14,50:0a1628,100:080c14&height=60&fontSize=13&fontColor=00b4d8&fontAlignY=58&text=%E2%9D%9D%20If%20you%20ran%20it%20twice%20manually%2C%20it%20should%20already%20be%20automated.%20%E2%9D%9E%20%E2%80%94%20Muhammad%20Ahmed&animation=fadeIn&stroke=00b4d8&strokeWidth=1" width="100%"/>
-
-</div>
