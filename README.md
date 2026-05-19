@@ -4,15 +4,6 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Kubernetes-080c14?style=for-the-badge&logo=kubernetes&logoColor=00b4d8" />
-<img src="https://img.shields.io/badge/Terraform-080c14?style=for-the-badge&logo=terraform&logoColor=7dd3fc" />
-<img src="https://img.shields.io/badge/AWS-080c14?style=for-the-badge&logo=amazon-aws&logoColor=a5b4fc" />
-<img src="https://img.shields.io/badge/GitOps-080c14?style=for-the-badge&logo=argo&logoColor=6ee7b7" />
-<img src="https://img.shields.io/badge/Docker-080c14?style=for-the-badge&logo=docker&logoColor=fdba74" />
-<img src="https://img.shields.io/badge/CI%2FCD-080c14?style=for-the-badge&logo=github-actions&logoColor=d8b4fe" />
-
-<br/><br/>
-
 <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 &nbsp;
 <a href="https://github.com/ahmed-647"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
