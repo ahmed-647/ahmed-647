@@ -1,6 +1,6 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=1&pause=1000&color=00E5D4&center=false&vCenter=true&width=500&lines=Hi+there%2C+I+am+Harsh+Trivedi+%F0%9F%91%8B" alt="Hi there, I am Harsh Trivedi 👋" />
+  
+#  Hi there! I'm <span style="color: #2b6cb0;">Muhammad Ahmed</span> 👋
 
 <br/><br/>
 
