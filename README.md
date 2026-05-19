@@ -4,11 +4,11 @@
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_ID"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/muhammad-ahmed67/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 &nbsp;
 <a href="https://github.com/ahmed-647"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 &nbsp;
-<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:muhammaad.ahmaad123@gmail.com"><img src="https://img.shields.io/badge/Gmail-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=ahmed-647&color=00b4d8&style=for-the-badge&label=Profile+Views" />
 
