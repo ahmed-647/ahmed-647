@@ -205,7 +205,6 @@ currently:    Open to DevOps / Cloud / SRE roles
 philosophy:   "If you ran it twice manually, it should already be automated."
 ```
 
----
 
 ## 💬 Let's Build Something Great
 
@@ -225,6 +224,14 @@ philosophy:   "If you ran it twice manually, it should already be automated."
 <a href="https://github.com/ahmed-647"><img src="https://img.shields.io/badge/GitHub-See%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
+
+<div align="center">
+
+> *"Engineering isn't just about building systems — it's about architecting **reliability** that scales with **vision** and **innovation** ❤️✨"*
+
+</div>
+
+---
 
 ---
 
