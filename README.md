@@ -230,4 +230,3 @@ philosophy:   "If you ran it twice manually, it should already be automated."
 > *"Building scalable and reliable infrastructure that helps teams deploy faster, operate confidently, and innovate without friction."* 🚀
 
 </div>
----
