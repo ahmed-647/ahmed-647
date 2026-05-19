@@ -2,7 +2,6 @@
   
 #  Hi there! I'm <span style="color: #2b6cb0;">Muhammad Ahmed</span> 👋
 
-<br/><br/>
 
 <a href="https://www.linkedin.com/in/muhammad-ahmed67/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 &nbsp;
