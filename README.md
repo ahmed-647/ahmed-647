@@ -1,15 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammad%20Ahmed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=DevOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Automation%20Specialist&descAlignY=55&descSize=16"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&lines=🚀+Building+Zero-Friction+Infrastructure;☸️+Kubernetes+%7C+Terraform+%7C+AWS+%7C+GitOps;⚡+Turning+Manual+Chaos+into+Pure+Automation;🛡️+Secure+%7C+Scalable+%7C+Always+Production-Ready)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080c14,50:0a1628,100:080c14&height=220&text=Muhammad%20Ahmed&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=DevOps%20Engineer%20%E2%80%A2%20Cloud%20Architect%20%E2%80%A2%20Automation%20Specialist&descSize=17&descAlignY=58&descColor=00b4d8&stroke=00b4d8&strokeWidth=2" width="100%"/>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_ID)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmed-647)
-[![Gmail](https://img.shields.io/badge/Gmail-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=ahmed-647&color=00d4ff&style=for-the-badge&label=Profile+Views)](https://github.com/ahmed-647)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=750&lines=Building+Zero-Friction+Infrastructure;Kubernetes+%7C+Terraform+%7C+AWS+%7C+GitOps;Turning+Manual+Chaos+into+Pure+Automation;Secure+%7C+Scalable+%7C+Always+Production-Ready;Infrastructure+that+Thinks%2C+Heals+and+Scales" alt="Typing SVG" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Kubernetes-080c14?style=for-the-badge&logo=kubernetes&logoColor=00b4d8" />
+<img src="https://img.shields.io/badge/Terraform-080c14?style=for-the-badge&logo=terraform&logoColor=7dd3fc" />
+<img src="https://img.shields.io/badge/AWS-080c14?style=for-the-badge&logo=amazon-aws&logoColor=a5b4fc" />
+<img src="https://img.shields.io/badge/GitOps-080c14?style=for-the-badge&logo=argo&logoColor=6ee7b7" />
+<img src="https://img.shields.io/badge/Docker-080c14?style=for-the-badge&logo=docker&logoColor=fdba74" />
+<img src="https://img.shields.io/badge/CI%2FCD-080c14?style=for-the-badge&logo=github-actions&logoColor=d8b4fe" />
+
+<br/><br/>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_ID"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+&nbsp;
+<a href="https://github.com/ahmed-647"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+&nbsp;
+<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=ahmed-647&color=00b4d8&style=for-the-badge&label=Profile+Views" />
 
 </div>
 
@@ -84,7 +98,87 @@ I don't just build efficiently — I build *economically*. Right-sizing, spot in
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,linux,jenkins,githubactions,python,bash,ansible,grafana,prometheus,mongodb,nodejs,react,git&theme=dark" />
+<br/>
+
+☁️ **Cloud & Orchestration**
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
+
+<br/><br/><br/>
+
+🏗️ **Infrastructure as Code**
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
+
+<br/><br/><br/>
+
+⚙️ **CI/CD Pipelines**
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+
+<br/><br/><br/>
+
+📊 **Monitoring & Observability**
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" />
+
+<br/><br/><br/>
+
+💻 **Scripting & OS**
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" />
+
+<br/><br/><br/>
+
+🗄️ **App Stack & Databases**
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+
+<br/>
 
 </div>
 
@@ -148,14 +242,14 @@ I don't just build efficiently — I build *economically*. Right-sizing, spot in
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=ahmed-647&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="175"/>
-&nbsp;
+&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-647&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-647&theme=tokyonight&hide_border=true&fire=DD2727" height="175"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmed-647&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 
@@ -163,13 +257,36 @@ I don't just build efficiently — I build *economically*. Right-sizing, spot in
 
 ---
 
-# 📈 GitHub Contribution Snake
+## 🚀 Currently Leveling Up
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+| What I'm Learning | Why It Matters |
+|---|---|
+| 🤖 **Platform Engineering & Internal Developer Portals** | Building self-service infra platforms so devs ship faster without ops bottlenecks |
+| 🔒 **Advanced eBPF & Cilium Networking** | Next-gen kernel-level observability and zero-trust network policies in K8s |
+| ☁️ **Multi-Cloud Architecture (AWS + GCP)** | Designing resilient workloads that aren't locked into a single cloud provider |
+| 🧠 **AI/ML Infrastructure (MLOps)** | Orchestrating model training pipelines & GPU workloads on Kubernetes |
 
 </div>
+
+---
+
+## ⚡ Quick Facts
+
+```yaml
+name:         Muhammad Ahmed
+location:     Pakistan 🇵🇰
+role:         DevOps Engineer | Cloud Architect
+focus:        Zero-Friction Infrastructure
+superpowers:
+  - Turning manual chaos into pure automation
+  - Making infrastructure self-heal & self-scale
+  - Building pipelines nobody needs to babysit
+  - Shipping to prod without losing sleep
+currently:    Open to DevOps / Cloud / SRE roles
+philosophy:   "If you ran it twice manually, it should already be automated."
+```
 
 ---
 
@@ -184,20 +301,18 @@ I don't just build efficiently — I build *economically*. Right-sizing, spot in
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_ID)
-[![Gmail](https://img.shields.io/badge/Gmail-Send%20Me%20a%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-See%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmed-647)
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_ID"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+&nbsp;
+<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-Send%20Me%20a%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+&nbsp;
+<a href="https://github.com/ahmed-647"><img src="https://img.shields.io/badge/GitHub-See%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
-
 <div align="center">
 
-*"Engineering isn't just about building systems — it's about architecting **reliability** that scales with **vision** and **innovation** ❤️✨"*
-
-**— Muhammad Ahmed**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080c14,50:0a1628,100:080c14&height=60&fontSize=13&fontColor=00b4d8&fontAlignY=58&text=%E2%9D%9D%20If%20you%20ran%20it%20twice%20manually%2C%20it%20should%20already%20be%20automated.%20%E2%9D%9E%20%E2%80%94%20Muhammad%20Ahmed&animation=fadeIn&stroke=00b4d8&strokeWidth=1" width="100%"/>
 
 </div>
