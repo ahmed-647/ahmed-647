@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a1628,30:0d2a3a,60:0a2a2a,100:031a1a&height=220&text=Harsh%20Trivedi&fontSize=60&fontColor=00e5d4&fontAlignY=40&animation=fadeIn&desc=DevOps%20Engineer%20%E2%80%A2%20Cloud%20Architect%20%E2%80%A2%20Automation%20Specialist&descSize=17&descAlignY=62&descColor=7dd8d4&stroke=00aaff&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080c14,50:0a1628,100:080c14&height=220&text=Muhammad%20Ahmed&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=DevOps%20Engineer%20%E2%80%A2%20Cloud%20Architect%20%E2%80%A2%20Automation%20Specialist&descSize=17&descAlignY=58&descColor=00b4d8&stroke=00b4d8&strokeWidth=2" width="100%"/>
 
 <br/>
 
@@ -21,7 +21,7 @@
 &nbsp;
 <a href="https://github.com/ahmed-647"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 &nbsp;
-<a href="mailto:muhammadahmaad123@gmail.com"><img src="https://img.shields.io/badge/Gmail-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=ahmed-647&color=00b4d8&style=for-the-badge&label=Profile+Views" />
 
@@ -35,7 +35,7 @@
 
 > ### *"I don't manage infrastructure. I architect ecosystems that manage themselves."*
 
-I'm **Harsh Trivedi**🫡 — a **Dynamic DevOps Engineer** from 🇮🇳 India, on a mission to make **"Zero-Friction Infrastructure"** a reality for every engineering team I work with.
+I'm **Muhammad Ahmed**🫡 — a **Dynamic DevOps Engineer** from 🇵🇰 Pakistan, on a mission to make **"Zero-Friction Infrastructure"** a reality for every engineering team I work with.
 
 While others are manually clicking through cloud consoles, I'm writing **Terraform** that provisions entire production environments in minutes. While others are writing deployment docs, I'm building **CI/CD pipelines** that deploy flawlessly — every single time, without human touch.
 
@@ -177,7 +177,7 @@ I don't just build efficiently — I build *economically*. Right-sizing, spot in
 
 ---
 
-## 📈 GitHub Contribution Snake
+# 📈 GitHub Contribution Snake
 
 <div align="center">
 
@@ -205,8 +205,8 @@ I don't just build efficiently — I build *economically*. Right-sizing, spot in
 ## ⚡ Quick Facts
 
 ```yaml
-name:         Harsh Trivedi
-location:     India 🇮🇳
+name:         Muhammad Ahmed
+location:     Pakistan 🇵🇰
 role:         DevOps Engineer | Cloud Architect
 focus:        Zero-Friction Infrastructure
 superpowers:
@@ -233,7 +233,7 @@ philosophy:   "If you ran it twice manually, it should already be automated."
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 &nbsp;
-<a href="mailto:muhammadahmaad123@gmail.com"><img src="https://img.shields.io/badge/Gmail-Send%20Me%20a%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-Send%20Me%20a%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 &nbsp;
 <a href="https://github.com/ahmed-647"><img src="https://img.shields.io/badge/GitHub-See%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
@@ -243,6 +243,6 @@ philosophy:   "If you ran it twice manually, it should already be automated."
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a1628,30:0d2a3a,60:0a2a2a,100:031a1a&height=60&fontSize=13&fontColor=00e5d4&fontAlignY=50&text=%E2%9D%9D%20Building%20systems%20that%20scale%2C%20teams%20that%20thrive%2C%20and%20infrastructure%20that%20never%20sleeps.%20%E2%9D%9E%20%E2%80%94%20Harsh%20Trivedi&animation=fadeIn&stroke=00aaff&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080c14,50:0a1628,100:080c14&height=60&fontSize=13&fontColor=00b4d8&fontAlignY=58&text=%E2%9D%9D%20If%20you%20ran%20it%20twice%20manually%2C%20it%20should%20already%20be%20automated.%20%E2%9D%9E%20%E2%80%94%20Muhammad%20Ahmed&animation=fadeIn&stroke=00b4d8&strokeWidth=1" width="100%"/>
 
 </div>
