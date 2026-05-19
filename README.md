@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a1628,30:0d2a3a,60:0a2a2a,100:031a1a&height=220&text=Harsh%20Trivedi&fontSize=60&fontColor=00e5d4&fontAlignY=40&animation=fadeIn&desc=DevOps%20Engineer%20%E2%80%A2%20Cloud%20Architect%20%E2%80%A2%20Automation%20Specialist&descSize=17&descAlignY=62&descColor=7dd8d4&stroke=00aaff&strokeWidth=2" width="100%"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=750&lines=Building+Zero-Friction+Infrastructure;Kubernetes+%7C+Terraform+%7C+AWS+%7C+GitOps;Turning+Manual+Chaos+into+Pure+Automation;Secure+%7C+Scalable+%7C+Always+Production-Ready;Infrastructure+that+Thinks%2C+Heals+and+Scales" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=1&pause=1000&color=00E5D4&center=false&vCenter=true&width=500&lines=Hi+there%2C+I+am+Harsh+Trivedi+%F0%9F%91%8B" alt="Hi there, I am Harsh Trivedi 👋" />
 
 <br/><br/>
 
