@@ -85,7 +85,7 @@ I don't just build efficiently — I build *economically*. Right-sizing, spot in
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,linux,jenkins,githubactions,python,bash,ansible,grafana,prometheus,mongodb,nodejs,react,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,linux,jenkins,githubactions,python,bash,ansible,grafana,prometheus,mongodb,nodejs,react,html,css,java,go,git&theme=dark" />
 
 </div>
 
